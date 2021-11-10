@@ -6,7 +6,7 @@ Il client può inviare due tipi di comandi:
 
 #### Comandi diretti
 I comandi diretti hanno la seguente **sintassi**:
-                *`comando`* : * tempo di esecuzione in millisecondi*`  
+                *`comando* : * tempo di esecuzione in millisecondi*`  
                 
 I **comandi** che possono essere dati sono:
 | Nome comandi  | Descrizione
