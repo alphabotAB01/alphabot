@@ -8,4 +8,4 @@ hanno partecipato al progetto:
 - [Raffaello Romagnoli](https://github.com/raffaelloromagnoli)
 - [Dassio Elia](https://github.com/EliaDassio)
 
-Il progetto richiedeva di comandare un Alphabot attraverso l'uso di un sistema client-server attraverso una rete lan utilizzando anche un server per memorizzare alcuni movimenti complessi
+Il progetto richiedeva di comandare un Alphabot attraverso l'uso di un sistema client-server attraverso una rete LAN utilizzando anche un database per memorizzare alcuni movimenti complessi
