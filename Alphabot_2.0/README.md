@@ -25,8 +25,8 @@ Per dire al server di eseguire queste sequenze è sufficiente inviare il loro no
 Le sequenze memorizzate che possono essere date sono:
 | Nome sequenza  | Descrizione                      |Dimostrazione del comando
 | :------------  | :--------                        |:-----------------------
-|` cerchio`            | Va avanti                        |
-|` quadrato`            | Va indietro                      |
-|` zigzag`            | Gira su se stesso verso sinistra | 
-|` curva90_sinistra`            | Gira su se stesso verso destra   |
-|` curva90_destra`            | Si ferma                         |
+|` cerchio`            | Va avanti                        |![sequenza_cerchio](./gif_sequenze_movimenti/cerchio.gif)
+|` quadrato`            | Va indietro                      |![sequenza_quadrato](./gif_sequenze_movimenti/quadrato.gif)
+|` zigzag`            | Gira su se stesso verso sinistra | ![sequenza_zigzag](./gif_sequenze_movimenti/zigzag.gif)
+|` curva90_sinistra`            | Gira su se stesso verso destra   |![sequenza_curva_sinistra](./gif_sequenze_movimenti/curva_sinistra.gif)
+|` curva90_destra`            | Si ferma                         |![sequenza_curva_destra](./gif_sequenze_movimenti/curva_destra.gif)
