@@ -11,8 +11,8 @@ I comandi diretti hanno la seguente **sintassi**:
 I **comandi** che possono essere dati sono:
 | Nome comandi  | Descrizione
 | :------------ | :-------- 
-|` w`           | Va avanti  
-|` s`           | Va indietro    
+|` w`           | Procede avanti  
+|` s`           | Procede indietro    
 |` a`           | Gira su se stesso verso sinistra  
 |` d`           | Gira su se stesso verso destra
 |` q`           | Si ferma  
