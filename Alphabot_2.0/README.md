@@ -21,7 +21,7 @@ Nel caso si volesse è anche possibile dare una sequenza di comandi separandoli 
 
 #### Sequenze di comandi
 All'interno dell'Alphabot è presente un database che contiene alcune sequenze di comandi.
-Per dire al server di eseguire queste sequenze è sufficiente inviare il loro nome.
+Per dire al server di eseguire una di queste sequenze è sufficiente inviare il nome.
 Le sequenze memorizzate che possono essere date sono:
 | Nome sequenza  | Descrizione                      |Dimostrazione del comando
 | :------------  | :--------                        |:-----------------------
