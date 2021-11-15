@@ -4,8 +4,8 @@ In questo progetto il client invia un comando al server che lo esegue fino a qua
 I **comandi** che possono essere dati sono:
 | Nome comandi  | Descrizione                         | Direzione comandi
 | :------------ | :-------- |:----------
-| ` w`          | Procede in avanti  |
-|` s`           | Procede in indietro   | 
+| ` w`          | Procede avanti  |
+|` s`           | Procede indietro   | 
 |` a`           | Gira su se stesso verso sinistra  |
 |` d`           | Gira su se stesso verso destra|
 |` q`           | Si ferma  |
