@@ -32,8 +32,6 @@ class AlphaBot(object):
         self.PWMB = GPIO.PWM(self.ENB, 500)
         self.PWMA.start(self.PA)
         self.PWMB.start(self.PB)
-        self.avanti()
-        time.sleep(2)
         self.fermo()
 
     def destra(self):
