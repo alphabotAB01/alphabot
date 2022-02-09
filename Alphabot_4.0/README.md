@@ -35,6 +35,6 @@ Le sequenze memorizzate che possono essere date sono:
 il sito web è composto da due pagine differenti: la pagina di login e la pagina di controllo dell'Alphabot.
 
 #### pagina di login
-[!
+![pagina_login](./immagini/pagina_login.png)
 #### pagina di controllo dell'Alphabot
-
+![pagina_controllo](./immagini/pagina_controllo.png)
