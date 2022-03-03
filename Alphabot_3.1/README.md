@@ -22,4 +22,4 @@ I **comandi** che possono essere dati sono:
 ### Sito web
 Il sito web per controllare l'Alphabot si presenta come segue.
 
-![controllo_alphabot](./immagini/controllo_alphabot.png)
+![controllo_alphabot](./immagini/pagina_controllo.png)
