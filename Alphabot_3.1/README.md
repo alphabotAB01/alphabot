@@ -16,3 +16,10 @@ I **comandi** che possono essere dati sono:
 |` a`           | Gira su se stesso verso sinistra
 |` d`           | Gira su se stesso verso destra
 |` q`           | Si ferma  
+
+---
+
+### Sito web
+Il sito web per controllare l'Alphabot si presenta come segue.
+
+[!controllo_alphabot](/immagini/controllo_alphabot.png)
