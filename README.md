@@ -1,6 +1,6 @@
 # Alphabot
 
-Questo progetto consiste nel comandare attraverso l'uso di un sistema client-server TCP un Alphabot in modo che esegua dei movimenti.
+Questo progetto consiste nel comandare attraverso l'uso di un sistema client-server un Alphabot in modo che esegua dei movimenti.
 
 Hanno partecipato al progetto:
 
