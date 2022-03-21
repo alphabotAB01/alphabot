@@ -1,7 +1,10 @@
-## Alphabot 5.0
+## Alphabot 5.s.1
 
 In questa versione del programma c'è una comunicazione client-server attraverso il protocollo **HTTP** e viene memorizzato all'interno di un *database* 
 la data e l'ora dell'accesso di ciascun utente e i comandi che vengono inseriti.
+Inoltre è presente un client in python che prova ad accedere con l'utente `Minsk` attraverso la **brute force**, utilizzando i thread.
+
+**NB** Il client.py è fatto per poter "indovinare" una password di caratteri alfanumerici di lunghezza 3.
 
 
 ### Funzionamento
