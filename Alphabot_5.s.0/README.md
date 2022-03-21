@@ -4,6 +4,8 @@ In questa versione del programma c'è una comunicazione client-server attraverso
 la data e l'ora dell'accesso di ciascun utente e i comandi che vengono inseriti.
 Inoltre è presente un client in python che prova ad accedere con l'utente `Minsk` attraverso la **brute force**.
 
+**NB** Il programma è fatto per poter indovinare una password di caratteri alfanumerici di lunghezza 3.
+
 
 ### Funzionamento
 In questo progetto il client invia un comando al server che lo esegue fino a quando non gliene viene dato un altro, eccetto per il comando *destra* e *sinistra* dove viene effettuata una rotazione di 45°.
