@@ -45,6 +45,7 @@ Inoltre è presente una web API che permette i seguenti movimenti:
 | Link  | Parametri   |   Descrizione                
 | :------------  | :--------  |:--                      
 |` http://192.168.0.125:5000/api/v1/sensor/obstacles`            | - | restituisce se i sensori di destra e inistra hanno rilevato un ostacolo            
-|` http://192.168.0.125:5000/api/v1/motors/both`            | **pwmL** è il pwm di sinistra \n f| g
+|` http://192.168.0.125:5000/api/v1/motors/both`            | **pwmL** è il pwm di sinistra 
+**pwmR** è il pwm di destra| g
 | ^^ | j| j
 |` http://192.168.0.125:5000/api/v1/motors/right`            | Fa un movimento a zigzag 
