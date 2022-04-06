@@ -10,4 +10,4 @@ L'alphabot va avanti e controlla se sono presenti degli ostacoli (utilizzando l'
 * Se rileva un ostacolo da entrambi i sensori ferma i motori e gira di circa 90° a sinistra
 
 Se al successivo controllo la situazione non è stata risolta allora non fermerà più i motori, ma provvederà solo a ruotare di alcuni gradi 
-a sinsitra nel caso ci sia rilevato l'ostacolo a destra e a destra nel caso sia rilevato l'ostacolo a sinistra o da entrambi.
+a sinsitra nel caso abbia rilevato l'ostacolo a destra e a destra nel caso abbia rilevato l'ostacolo a sinistra o da entrambi.
