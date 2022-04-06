@@ -58,19 +58,3 @@ while True:
 
 
 """ ***************************************** """
-
-"""#URL DA CONOSCERE ---> 
-sensori = requests.get("http://192.168.0.125:5000/api/v1/sensor/obstacles")
-#book = requests.get("http://127.0.0.1:5000/api/v1/resources/books", params={"id":'1'})
-print(type(sensori.text))
-
-print(requests.get("http://192.168.0.125:5000/api/v1/motors/both", params={"pwmL":5, "pwmR":5, "time":2000}).text)
-time.sleep(5)
-print("1")
-print(requests.get("http://192.168.0.125:5000/api/v1/motors/right", params={"pwm":30, "time":2000}).text)
-time.sleep(5)
-print("2")
-print(requests.get("http://192.168.0.125:5000/api/v1/motors/left", params={"pwm":20, "time":2000}).text)
-time.sleep(5)
-print("3")
-print(requests.get("http://192.168.0.125:5000/api/v1/motors/both", params={"pwmL":5, "pwmR":35, "time":2000}).text)"""
