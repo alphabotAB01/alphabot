@@ -46,7 +46,7 @@ Inoltre è presente una web API che permette i seguenti movimenti:
 
 <table>
 <tr><th>URL</th><th>parametri</th><th>descrizione</th></tr>
-  <tr><td>http://indirizzoIP:porta/api/v1/get_image</td><td>---</td><td>Restituisce un'immagine scattata dalla telecamera dell'Alphabot in tempo reale</td></tr>
+  <tr><td><b>http://indirizzoIP:porta/api/v1/get_image</b></td><td>---</td><td>Restituisce un'immagine scattata dalla telecamera dell'Alphabot in tempo reale</td></tr>
 <tr><td><b>http://indirizzoIP:porta/api/v1/sensor/obstacles</b></td><td>---</td><td>restituisce se i sensori di destra e inistra hanno rilevato un ostacolo</td></tr>
 <tr><td rowspan="3"><b>http://indirizzoIP:porta/api/v1/motors/both</b></td><td><b>pwmL</b> è il pwm di sinistra</td><td rowspan="3">setta i pwm di sinistra e di destra e si muove per il tempo indicato</td></tr>
 <tr><td><b>pwmR</b> è il pwm di destra</td></tr>
