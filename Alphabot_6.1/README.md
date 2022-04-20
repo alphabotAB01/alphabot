@@ -1,4 +1,4 @@
-## Alphabot 6.0
+## Alphabot 6.1
 
 In questa versione del programma c'è una comunicazione client-server attraverso il protocollo **HTTP** e viene memorizzato all'interno di un *database* 
 la data e l'ora dell'accesso di ciascun utente e i comandi che vengono inseriti.
