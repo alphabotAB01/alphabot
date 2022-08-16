@@ -45,13 +45,13 @@ Inoltre è presente una web API che permette i seguenti movimenti:
 
 <table>
 <tr><th>URL</th><th>parametri</th><th>descrizione</th></tr>
-<tr><td><b>http://192.168.0.125:5000/api/v1/sensor/obstacles</b></td><td>---</td><td>restituisce se i sensori di destra e inistra hanno rilevato un ostacolo</td></tr>
-<tr><td rowspan="3"><b>http://192.168.0.125:5000/api/v1/motors/both</b></td><td><b>pwmL</b> è il pwm di sinistra</td><td rowspan="3">setta i pwm di sinistra e di destra e si muove per il tempo indicato</td></tr>
+<tr><td><b>http://indirizzo_ip:porta/api/v1/sensor/obstacles</b></td><td>---</td><td>restituisce se i sensori di destra e inistra hanno rilevato un ostacolo</td></tr>
+<tr><td rowspan="3"><b>http://indirizzo_ip:porta/api/v1/motors/both</b></td><td><b>pwmL</b> è il pwm di sinistra</td><td rowspan="3">setta i pwm di sinistra e di destra e si muove per il tempo indicato</td></tr>
 <tr><td><b>pwmR</b> è il pwm di destra</td></tr>
 <tr><td><b>time</b> è il tempo in cui deve fare l'azione</td></tr>
-<tr><td rowspan="2"><b>http://192.168.0.125:5000/api/v1/motors/left</b></td><td><b>pwm</b> è il pwm di sinistra</td><td rowspan="2">setta il pwm di sinistra e si muove per il tempo indicato</td></tr>
+<tr><td rowspan="2"><b>http://indirizzo_ip:porta/api/v1/motors/left</b></td><td><b>pwm</b> è il pwm di sinistra</td><td rowspan="2">setta il pwm di sinistra e si muove per il tempo indicato</td></tr>
 <tr><td><b>time</b> è il tempo in cui deve fare l'azione</td></tr>
-<tr><td rowspan="2"><b>http://192.168.0.125:5000/api/v1/motors/right</b></td><td><b>pwm</b> è il pwm di destra</td><td rowspan="2">setta il pwm di destra e si muove per il tempo indicato</td></tr>
+<tr><td rowspan="2"><b>http://indirizzo_ip:porta/api/v1/motors/right</b></td><td><b>pwm</b> è il pwm di destra</td><td rowspan="2">setta il pwm di destra e si muove per il tempo indicato</td></tr>
 <tr><td><b>time</b> è il tempo in cui deve fare l'azione</td></tr>
 </table>
 
